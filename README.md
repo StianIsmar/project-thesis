@@ -1,7 +1,7 @@
 # project-thesis
 Repository for project thesis at NTNU with Morten Osvik. Working with energy company TrønderEnergi.
 
-### Run project code:
+### Run project code
 Run commands in the terminal
 
 Make sure Python 3 is installed.
