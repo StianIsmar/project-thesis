@@ -2,3 +2,5 @@
 /NASA Turbofan Data/
 /Hydraulic System CBM/
 *.DS_Store
+.DS_Store
+*.ipynb_checkpoints
