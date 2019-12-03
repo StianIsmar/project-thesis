@@ -4,3 +4,7 @@
 *.DS_Store
 .DS_Store
 *.ipynb_checkpoints
+notes.md
+*.zip
+*.csv
+*.xlsx
