@@ -1,5 +1,5 @@
 # project-thesis
-Repository for project thesis at NTNU with Morten Osvik. Working with energy company TrønderEnergi.
+Repository for project thesis at NTNU with Morten Osvik. Conducted in collaboration with Norwegian energy company TrønderEnergi.
 The objective of the project thesis is to build interpretable machine learning models using data from 25 wind turbines.
 
 ### Run project code
@@ -14,6 +14,6 @@ Make sure Python 3 is installed.
 
 
 # Source code
-The code in ./TE contains all preprocessing and models for the project.
+The code in ./src contains all preprocessing and models for the project.
 
-project-thesis/TE/models/run_models_stian.ipynb has all the ran models.
+project-thesis/TE/models/run_models.ipynb containes all the used models.
