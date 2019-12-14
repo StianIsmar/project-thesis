@@ -16,4 +16,4 @@ Make sure Python 3 is installed.
 # Source code
 The code in ./src contains all preprocessing and models for the project.
 
-project-thesis/TE/models/run_models.ipynb containes all the used models.
+project-thesis/src/models/run_models.ipynb containes all the used models.
